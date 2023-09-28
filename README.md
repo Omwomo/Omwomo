@@ -1,4 +1,3 @@
-[![](https://gifdb.com/images/high/coding-walking-cat-17mitwkziw2xzxxk.gif)]
 <h1 align="center">Hi 👋, I'm Eugene Oduor</h1>
 <h3 align="center">A passionate FullStack developer from Kenya</h3>
 
@@ -17,7 +16,7 @@
 
 - 📫 How to reach me **eugeneoduor79@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1qy8TzQHMPtRZ4bQAdcMkdicUZe2CpzjZqskqNx-FEVY/edit?usp=sharing](https://docs.google.com/document/d/1qy8TzQHMPtRZ4bQAdcMkdicUZe2CpzjZqskqNx-FEVY/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1qy8TzQHMPtRZ4bQAdcMkdicUZe2CpzjZqskqNx-FEVY/edit?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny.**
 
